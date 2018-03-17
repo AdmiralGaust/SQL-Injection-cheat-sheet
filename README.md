@@ -205,4 +205,10 @@ http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-she
 
 http://garage4hackers.com/showthread.php?t=1990
 
+**For Oracle DB**
+
+Oracle does not have information schema and thus we need some alternatives for it. The link below can be helpful.
+
+https://stackoverflow.com/questions/8739203/oracle-query-to-fetch-column-names
+
 
