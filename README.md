@@ -162,4 +162,6 @@ http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-she
 
 http://garage4hackers.com/showthread.php?t=1990
 
+https://www.scaler.com/topics/sql/sql-injection/
+
 
